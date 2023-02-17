@@ -1,0 +1,134 @@
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\PhongKham.exe.config
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\PhongKham.exe
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\PhongKham.pdb
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MaterialDesignColors.dll
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.csprojAssemblyReference.cache
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\MainWindow.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\App.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham_MarkupCompile.cache
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham_MarkupCompile.lref
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\App.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\MainWindow.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.g.resources
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.Properties.Resources.resources
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.csproj.GenerateResource.cache
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.csproj.CoreCompileInputs.cache
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.csproj.CopyComplete
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.exe
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham.pdb
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Staffs.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Staffs.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Registration.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Bill.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Department.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Login.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Patient.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Pills.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Bill.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Department.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Login.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Patient.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Pills.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Registration.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Danhsachphieukham.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Danhsachphieukham.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\TaiKhoan.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\TaiKhoan.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\DS_HoaDon.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\DS_HoaDon.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\ThemThuoc.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\ThemThuoc.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\ThemBenhNhan.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\ThemBenhNhan.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\NguoiThan.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongBenh.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\NguoiThan.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongBenh.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\DoiMatKhau.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\DoiMatKhau.baml
+D:\C#\PhongKham\PhongKham\bin\Debug\PhongKham.exe.config
+D:\C#\PhongKham\PhongKham\bin\Debug\PhongKham.exe
+D:\C#\PhongKham\PhongKham\bin\Debug\PhongKham.pdb
+D:\C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\C#\PhongKham\PhongKham\bin\Debug\MaterialDesignColors.dll
+D:\C#\PhongKham\PhongKham\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\C#\PhongKham\PhongKham\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\C#\PhongKham\PhongKham\bin\Debug\MaterialDesignColors.pdb
+D:\C#\PhongKham\PhongKham\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\C#\PhongKham\PhongKham\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.csprojAssemblyReference.cache
+D:\C#\PhongKham\PhongKham\obj\Debug\Bill.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\CTHD.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\Danhsachphieukham.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\Department.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\DoiMatKhau.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\DS_HoaDon.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\Login.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\MainWindow.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\NguoiThan.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\Patient.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongBenh.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\Pills.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\Registration.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\Staffs.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\TaiKhoan.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\ThemBenhNhan.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\ThemThuoc.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\App.g.cs
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham_MarkupCompile.cache
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham_MarkupCompile.lref
+D:\C#\PhongKham\PhongKham\obj\Debug\App.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Bill.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\CTHD.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Danhsachphieukham.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Department.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\DoiMatKhau.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\DS_HoaDon.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Login.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\MainWindow.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\NguoiThan.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Patient.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongBenh.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Pills.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Registration.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\Staffs.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\TaiKhoan.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\ThemBenhNhan.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\ThemThuoc.baml
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.g.resources
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.Properties.Resources.resources
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.csproj.GenerateResource.cache
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.csproj.CoreCompileInputs.cache
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.csproj.CopyComplete
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.exe
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham.pdb
+D:\C#\PhongKham\PhongKham\obj\Debug\PhongKham_Content.g.cs
+D:\C#\PhongKham\PhongKham\bin\Debug\EntityFramework.dll
+D:\C#\PhongKham\PhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\PhongKham\PhongKham\bin\Debug\EntityFramework.xml
+D:\C#\PhongKham\PhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\PhongKham_Content.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\EntityFramework.dll
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\EntityFramework.xml
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\ChiTietHoaDon.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\ChiTietHoaDon.baml
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Dialog.g.cs
+D:\Lập trình C#\PhongKham\PhongKham\obj\Debug\Dialog.baml
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\Aspose.Cells.dll
+D:\Lập trình C#\PhongKham\PhongKham\bin\Debug\Aspose.Cells.xml

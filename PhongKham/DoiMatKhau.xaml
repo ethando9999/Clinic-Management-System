@@ -1,0 +1,35 @@
+﻿<Window x:Class="PhongKham.DoiMatKhau"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhongKham"
+        mc:Ignorable="d"
+        Height="269" Width="490" 
+        ResizeMode="NoResize" Topmost="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid Height="269" VerticalAlignment="Bottom">
+        <Border CornerRadius="25"  HorizontalAlignment="Left" Width="492">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
+                    <GradientStop Color="	#0033FF" Offset="1" />
+                    <GradientStop Color="#FFE63070" Offset="0" />
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+        <Border CornerRadius="25" BorderBrush="Black" Height="269" Margin="108,0,0,0" VerticalAlignment="Top" Background="white">
+            <Button Content="Xác nhận" Height="Auto" Margin="141,223,131,10" BorderBrush="#D94448" Background="#FFE63070" Click="Xacnhan_Click" />
+        </Border>
+        <Label Content="MẬT" HorizontalAlignment="Left" Margin="16,112,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" RenderTransformOrigin="0.527,0.27"/>
+        <Label Content="ĐỔI" HorizontalAlignment="Left" Margin="16,71,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" RenderTransformOrigin="0.527,0.27"/>
+        <Label Content="KHẨU" HorizontalAlignment="Left" Margin="16,155,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" RenderTransformOrigin="0.642,0.541"/>
+        <Label Content="Mật khẩu:" Margin="105,61,262,163" FontWeight="Bold" FontSize="14"/>
+        <Label Content="Mật khẩu mới:" Margin="105,111,262,113" FontWeight="Bold" FontSize="14"/>
+        <Label Content="Xác nhận mật khẩu mới:" Margin="105,166,218,58" FontWeight="Bold" FontSize="14"/>
+        <PasswordBox x:Name="txtPassword" Margin="279,50,20,189" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" RenderTransformOrigin="0.269,0.5"/>
+        <PasswordBox x:Name="txtPassword2" Margin="279,155,20,84" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" PreviewMouseDown="TextBox_MouseDown2"/>
+        <PasswordBox x:Name="txtPassword1" Margin="279,100,20,139" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" RenderTransformOrigin="0.705,1.2" PreviewMouseDown="TextBox_MouseDown1"/>
+        <Button Content="Trở về" Height="Auto" Margin="371,223,20,10" BorderBrush="#D94448" Background="#FFE63070" Click="Trove_Click_1" />
+
+    </Grid>
+</Window>
+

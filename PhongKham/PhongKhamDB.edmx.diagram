@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="57b8a5ec6a2d4546895430ce4c56217a" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="QL_PhongKhamModel.Benh" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.BenhNhan" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.CT_PhieuKham" Width="1.5" PointX="7.5" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.CTHD" Width="1.5" PointX="7.5" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.Donvi" Width="1.5" PointX="3" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.HOADON" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.LoaiNV" Width="1.5" PointX="10" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.Nguoithan" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.NhanVien" Width="1.5" PointX="12.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.PhieuKham" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.Phongban" Width="1.5" PointX="7.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.Phongbenh" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_PhongKhamModel.Thuoc" Width="1.5" PointX="5.25" PointY="12.25" IsExpanded="true" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_PhieuKham_Benh" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_BenhNhan_Nguoithan" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_BenhNhan_Phongbenh" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_HOADON_BenhNhan" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_PhieuKham_BenhNhan" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_CT_PhieuKham_PhieuKham" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_CT_PhieuKham_Thuoc" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_CTHD_HOADON" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_CTHD_Thuoc" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_Thuoc_Donvi" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_LoaiNV_Phongban" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_PhongKhamModel.FK_NhanVien_LoaiNV" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
